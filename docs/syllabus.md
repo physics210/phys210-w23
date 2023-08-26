@@ -7,9 +7,10 @@
 **Location:** 	Hebb B112
 
 **Schedule:**  	
+
 | | Section 101/L1A | Section 102/L1B |
 | --- | --- | --- |
-| Lecture | Mon/Wed 12:30-13:00 | Mon/Wed 15:30-16:00
+| Lecture | Mon/Wed 12:30-13:00 | Mon/Wed 15:30-16:00 |
 | Lab | Mon/Wed 13:00-14:50 | Mon/Wed 16:00-17:50 |
 
 Please attend the section in which you are registered. The division on the timetable between the Lecture and Lab portions of the course is primarily for bookkeeping. See class format, below.
