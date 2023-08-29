@@ -27,7 +27,7 @@ Please attend the section in which you are registered. The division on the timet
 
 - **UBC Jupyter Open:** Course materials will be distributed primarily through UBC Jupyter Open (https://open.jupyter.ubc.ca/), which is the same computing environment currently being used in PHYS 119. 
 - **Collaborative group-work on CoCalc:** A good portion of in-class time will be spent doing collaborative group-work in realtime collaborative Jupyter notebooks on CoCalc, which is Sagemath's online computing platform. Free accounts on this platform provide full access to what is needed for this group-work with somewhat limited computing resources. To set up an account at on https://cocalc.com/ you will need to use an email address. Please see the additional note below regarding your private information and CoCalc. 
-- **Canvas:** We will make some use of Canvas for course announcements, limited distribution of materials, coursework submission and quizzes. Importantly, all course deadlines will be communicated via assignment and quiz due dates on Canvas.
+- **Canvas:** We will make some use of Canvas for course announcements, coursework submission, quizzes and distribution of materials outside of the two tools above. Importantly, all course deadlines will be communicated via assignment and quiz due dates on Canvas.
 - **iClickerCloud:** In-class polling.
 - **Piazza:** Online discussion forums.
 
