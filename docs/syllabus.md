@@ -53,7 +53,7 @@ We will provide further details related to the format of the quizzes as we appro
 
 | Date | Topics | Other notes |
 | --- | --- | --- |
-| Sep 04 (W) | Day 01. Introduction to the course, python and Jupyter notebooks | |
+| Sep 06 (W) | Day 01. Introduction to the course, python and Jupyter notebooks | |
 | Sep 11 (M) | Day 02. User input, strings, text formatting | |
 | Sep 13 (W) | Day 03. Lists | |
 | Sep 18 (M) | Day 04. Plotting data with Matplotlib |  |
