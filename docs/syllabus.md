@@ -2,7 +2,7 @@
  
 **Instructor:** Joss Ives (joss.ives at ubc dot ca)
 
-**TAs:**	 Allen Zhao, Anna Nikou, Enzo Picinini, Jaden Majid, Ksenia Khoroshun, Michael Sekatchev and Ryan Quinn
+**TAs:**	 Allen Zhao, Enzo Picinini, Jaden Majid, Kai Lee, Ksenia Khoroshun, Michael Sekatchev and Ryan Quinn
 
 **Location:** 	Hebb B112
 
