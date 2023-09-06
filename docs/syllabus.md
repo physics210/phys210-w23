@@ -104,6 +104,7 @@ Notes:
 
 Grading scheme and deadline flexibility
 
+* The late submission settings on Canvas have been set to apply a 1% penalty to late submissions. This setting is used as a flag to clearly identify post-deadline submissions for the purposes of tallying extensions, but this 1% penalty will not actually be applied during final grade calculations.
 * iClicker polling questions will not count for marks.
 * Pre-class reading assignments and solo worksheets will be graded for completion automatically by Canvas. We will routinely spot check this work and may ask you to resubmit work that is insufficiently complete or thorough.
 * Group worksheets will be assessed via in-class checkpoint questions from the teaching team. Each person in the group will be asked a different question and will be provided as many chances as needed to give a correct or complete answer. We will drop your three lowest scores for these group worksheets. If you are absent from an in-person class, you will have the opportunity to use office hours to earn credit for answering relevant checkpoint questions for up to three group worksheets.
