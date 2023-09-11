@@ -55,9 +55,9 @@ We will provide further details related to the format of the quizzes as we appro
 | --- | --- | --- |
 | Sep 06 (W) | Day 01. Introduction to the course, python and Jupyter notebooks | |
 | Sep 11 (M) | Day 02. Strings and text formatting | |
-| Sep 13 (W) | Day 03. Lists | |
-| Sep 18 (M) | Day 04. Plotting data with Matplotlib |  |
-| Sep 20 (W) | Day 05. Loops and conditionals |  |
+| Sep 13 (W) | Day 03. Conditionals and while loops | |
+| Sep 18 (M) | Day 04. Lists and for loops |  |
+| Sep 20 (W) | Day 05. Plotting data with Matplotlib |  |
 | Sep 25 (M) | Day 06. Advanced techniques with lists, plotting, loops and conditionals | Draft of homework due for in-class feedback |
 | Sep 27 (W) | Day 07. Project 1, Day 1 (Due Oct 11, 9am) | Quiz 1; Homework 1 due, 9am |
 | Oct 02 (M) | Univserity closed to recognize National Day for Truth and Reconciliation | |
