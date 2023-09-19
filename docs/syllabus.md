@@ -59,26 +59,26 @@ We will provide further details related to the format of the quizzes as we appro
 | Sep 18 (M) | Day 04. Lists and for loops |  |
 | Sep 20 (W) | Day 05. Plotting data with Matplotlib |  |
 | Sep 25 (M) | Day 06. Advanced techniques with lists, plotting, loops and conditionals | Draft of homework due for in-class feedback |
-| Sep 27 (W) | Day 07. Project 1, Day 1 (Due Oct 11, 9am) | Quiz 1; Homework 1 due, 9am |
+| Sep 27 (W) | Day 07. Project 1, Day 1 (Due Oct 11, start of class) | Quiz 1; Homework 1 due |
 | Oct 02 (M) | Univserity closed to recognize National Day for Truth and Reconciliation | |
-| Oct 04 (W) | Day 08. Project 1, Day 2 (Due Oct 11, 9am) | |
+| Oct 04 (W) | Day 08. Project 1, Day 2 (Due Oct 11, start of class) | |
 | Oct 09 (M) | Thanksgiving holiday | |
 | Oct 11 (W) | Day 09. Functions | |
 | Oct 12 (Th) | Day 10. Numpy: arrays, random numbers and more | "Make-up Monday" (just roll with it) |
 | Oct 16 (M) | Day 11. Advanced array techniques | |
-| Oct 18 (W) | Day 12. Containers: dictionaries, tuples, etc | Homework 2 due, 9am  |
-| Oct 23 (M) | Day 13. Project 2, Day 1 (Due Oct 30, 9am) | Quiz 2 |
-| Oct 25 (W) | Day 14. Project 2, Day 2 (Due Oct 30, 9am) | |
+| Oct 18 (W) | Day 12. Containers: dictionaries, tuples, etc | Homework 2 due  |
+| Oct 23 (M) | Day 13. Project 2, Day 1 (Due Oct 30, start of class) | Quiz 2 |
+| Oct 25 (W) | Day 14. Project 2, Day 2 (Due Oct 30, start of class) | |
 | Oct 30 (M) | Day 15. Monte-Carlo methods 1 | |
 | Nov 01 (W) | Day 16. Monte-Carlo methods 2 | |
-| Nov 06 (M) | Day 17. File input and output; fitting | Homework 3 due, 9am |
-| Nov 08 (W) | Day 18. Project 3, Day 1 (Due Nov 22, 9am) | Quiz 3 |
+| Nov 06 (M) | Day 17. File input and output; fitting | Homework 3 due |
+| Nov 08 (W) | Day 18. Project 3, Day 1 (Due Nov 22, start of class) | Quiz 3 |
 | Nov 13 - 15 | Midterm break | |
-| Nov 20 (M) | Day 19. Project 3, Day 2 (Due Nov 22, 9am) | |
+| Nov 20 (M) | Day 19. Project 3, Day 2 (Due Nov 22, start of class) | |
 | Nov 22 (W) | Day 20. Animations | |
-| Nov 27 (M) | Day 21. Advanced topics needed for Project 4 | Homework 4 due, 9am |
-| Nov 29 (W) | Day 22. Project 4, Day 1 (Due Dec 06, 9am) | Quiz 4 |
-| Dec 04 (M) | Day 23. Project 4, Day 2 (Due Dec 06, 9am) | |
+| Nov 27 (M) | Day 21. Advanced topics needed for Project 4 | Homework 4 due |
+| Nov 29 (W) | Day 22. Project 4, Day 1 (Due Dec 06, start of class) | Quiz 4 |
+| Dec 04 (M) | Day 23. Project 4, Day 2 (Due Dec 06, start of class) | |
 | Dec 06 (W) | Day 24. Quiz retakes | |
 
 
