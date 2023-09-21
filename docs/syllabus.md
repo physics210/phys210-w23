@@ -58,7 +58,7 @@ We will provide further details related to the format of the quizzes as we appro
 | Sep 13 (W) | Day 03. Conditionals and while loops | |
 | Sep 18 (M) | Day 04. Lists and for loops |  |
 | Sep 20 (W) | Day 05. Plotting data with Matplotlib |  |
-| Sep 25 (M) | Day 06. Advanced techniques with lists, plotting, loops and conditionals | Draft of homework due for in-class feedback |
+| Sep 25 (M) | Day 06. Advanced techniques with Day 01 - 05 content | Draft of homework due for in-class feedback |
 | Sep 27 (W) | Day 07. Project 1, Day 1 (Due Oct 11, start of class) | Quiz 1; Homework 1 due |
 | Oct 02 (M) | Univserity closed to recognize National Day for Truth and Reconciliation | |
 | Oct 04 (W) | Day 08. Project 1, Day 2 (Due Oct 11, start of class) | |
