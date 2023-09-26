@@ -10,7 +10,6 @@ The Physics 210 projects consist of computational physics investigations and com
 * **Editorial and peer-review decisions:** Once it has been submitted and the editor has received the peer reviews from the referees, they will provide you with an editorial decision providing detailed feedback on how to improve the work and indicating the next steps toward publication for your manuscript. The exact names of these decisions may vary by journal, but the most common decisions are:1,2
 
 **Table 1.** Editorial decision categories for peer-reviewed manuscripts
-| | |
 | :--- | :--- |
 | Accept for publication |Accepted for publication in its current form. This is relatively rare on the first submission, as most articles require at least some minor revisions before they are accepted. |
 | Accept with minor revisions | It needs to undergo minor edits and alterations before it will be published |
