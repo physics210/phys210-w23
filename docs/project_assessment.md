@@ -7,7 +7,7 @@
 The Physics 210 projects consist of computational physics investigations and communication of those investigations. We seek to bring into your project process two very important aspects of the process of publishing a peer-reviewed manuscript (journal article).
 
 * **Self-assessment:** When you submit a manuscript to be considered for publication in a journal, you must pay careful attention to the expectations established by the journal, such as the type of work it publishes as well as its content and formatting guidelines. As such, you must engage in careful self-assessment to judge when your ongoing revisions process has elevated the quality of your investigation and communication to the point that you are ready to submit your manuscript to the journal. 
-* **Editorial and peer-review decisions:** Once it has been submitted and the editor has received the peer reviews from the referees, they will provide you with an editorial decision providing detailed feedback on how to improve the work and indicating the next steps toward publication for your manuscript. The exact names of these decisions may vary by journal, but the most common decisions are:1,2
+* **Editorial and peer-review decisions:** Once it has been submitted and the editor has received the peer reviews from the referees, they will provide you with an editorial decision providing detailed feedback on how to improve the work and indicating the next steps toward publication for your manuscript. The exact names of these decisions may vary by journal, but the most common decisions are:<sup>1,2</sup>
 
 **Editorial decision categories for peer-reviewed manuscripts**
 | Editorial decision | Description |
@@ -43,6 +43,12 @@ The table below details how we adapt the editorial decision scale for Physics 21
 | Rework | D | 3/10 | The work addresses only a minority of the criteria or is not well-aligned with the criteria. The author should seek further feedback before engaging in revisions. |
 | Absent | Absent | 0/10 | The work addresses little to none of the criteria. |
 
+### 1.13 Self-assessment
+
+Finally, to help you develop your ability to compare your work against stated criteria and expectations, and to know when your work is ready to “submit for publication”, you will include a self-assessment of your project work when you submit it. This self-assessment will include you assigning an editorial decision to each of the assessment categories and writing a brief statement to justify the decision you applied. When grading, we will look at each category and consider the decision-level you applied and its justification. We will then leave it as is (“well-assessed”) or bump the decisions-level up or down while additionally providing feedback as to where we think your self-assessment could be improved. Finally, we add an additional assessment categoriy of “Accuracy of Self-Assessments and Thoroughness of Reflections" and then combine it with the revised decision levels to determine your overall project grade.
+## **References**
+1. https://master-academia.com/editorial-decisions-reactions, retrieved Sept. 24, 2023
+2. ChatGPT-4, Prompt: “What are the types of editorial decisions after peer review?” Retrieved Sept. 24, 2023 from https://chat.openai.com/ 
 
 
 ## *2.1 Project 01 assessment criteria*
