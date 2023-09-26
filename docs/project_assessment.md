@@ -24,11 +24,11 @@ Additionally, outstanding manuscripts will often receive a “notable” distinc
 
 The Physics 210 project assessment categories will vary somewhat between Project 1 and the other projects, but here is an example set from Project 02:
 
-| Assessment category examples for Project 02 |
+| Assessment categories for Project 02 |
 | :--- |
-| Sophistication and Extension of Physics and Coding Approaches |
+| Physics and Coding Approaches |
 | Thoroughness of Investigation |
-| Communication of Physics and Co ding Approaches |
+| Communication of Physics and Coding Approaches |
 | Presentation of Results and Interpretation of Results |
 
 The table below details how we adapt the editorial decision scale for Physics 210 projects, which will be applied to each of the assessment categories. We also provide descriptions and some other benchmarks for reference.
