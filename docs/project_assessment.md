@@ -10,6 +10,7 @@ The Physics 210 projects consist of computational physics investigations and com
 * **Editorial and peer-review decisions:** Once it has been submitted and the editor has received the peer reviews from the referees, they will provide you with an editorial decision providing detailed feedback on how to improve the work and indicating the next steps toward publication for your manuscript. The exact names of these decisions may vary by journal, but the most common decisions are:<sup>1,2</sup>
 
 **Editorial decision categories for peer-reviewed manuscripts**
+
 | Editorial decision | Description |
 | :--- | :--- |
 | Accept for publication |Accepted for publication in its current form. This is relatively rare on the first submission, as most articles require at least some minor revisions before they are accepted. |
@@ -34,6 +35,7 @@ The Physics 210 project assessment categories will vary somewhat between Project
 The table below details how we adapt the editorial decision scale for Physics 210 projects, which will be applied to each of the assessment categories. We also provide descriptions and some other benchmarks for reference.
 
 **Physics 210 project assessment scale, applied per assessment category**
+
 | Decision scale | Letter-grade quality equivalent | Points awareded | Description |
 | :--- | :--- | :--- | :--- |
 | Outstanding | A+ | 10/10 | The work demonstrates initiative, insight and/or quality-level that goes above and beyond expectations. |
