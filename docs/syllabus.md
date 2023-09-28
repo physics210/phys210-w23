@@ -65,8 +65,8 @@ We will provide further details related to the format of the quizzes as we appro
 | Oct 09 (M) | Thanksgiving holiday | |
 | Oct 11 (W) | Day 09. Functions | |
 | Oct 12 (Th) | Day 10. Numpy: arrays, random numbers and more | "Make-up Monday" (just roll with it) |
-| Oct 16 (M) | Day 11. Advanced array techniques | |
-| Oct 18 (W) | Day 12. Containers: dictionaries, tuples, etc |   |
+| Oct 16 (M) | Day 11. Containers: dictionaries, tuples, etc | |
+| Oct 18 (W) | Day 12. Advanced array techniques |   |
 | Oct 23 (M) | Day 13. Project 2, Day 1 (Due Oct 30, start of class) | Homework 2 due, Quiz 2 |
 | Oct 25 (W) | Day 14. Project 2, Day 2 (Due Oct 30, start of class) | |
 | Oct 30 (M) | Day 15. Monte-Carlo methods 1 | |
