@@ -55,4 +55,4 @@ Finally, to help you develop your ability to compare your work against stated cr
 
 ## *2.1 Project 01 assessment criteria*
 
-The detailed assessment criteria are coming soon
+Please visit the Project 01 submission assignment for a detailed rubric.
