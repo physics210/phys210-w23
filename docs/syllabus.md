@@ -49,7 +49,39 @@ Each of the four modules will culminate in a small project, where you will use y
 
 We will provide further details related to the format of the quizzes as we approach the date of the first quiz.
 
-## TENTATIVE SCHEDULE
+## PROPOSED UPDATED SCHEDULE
+
+| Date | Topics | Group activity | Other notes |
+| --- | --- | --- | --- |
+| Sep 06 (W) | Day 01. Introduction to the course, python and Jupyter notebooks | | |
+| Sep 11 (M) | Day 02. Strings and text formatting |  Strings and text formatting worksheet | |
+| Sep 13 (W) | Day 03. Conditionals and while loops | Conditionals and while loops worksheet | |
+| Sep 18 (M) | Day 04. Lists and for loops | Lists and for loops worksheet |  |
+| Sep 20 (W) | Day 05. Plotting data with Matplotlib | Plotting data with Matplotlib worksheet |  |
+| Sep 25 (M) | Day 06. Advanced techniques with Day 01 - 05 content | Homework 1 feedback | Draft of homework due for in-class feedback |
+| Sep 27 (W) | Day 07. Project 1, Day 1  | Group quiz | Quiz 1; Homework 1 due |
+| Oct 02 (M) | Univserity closed to recognize National Day for Truth and Reconciliation | | |
+| Oct 04 (W) | Day 08. Project 1, Day 2 | None | |
+| Oct 09 (M) | Thanksgiving holiday | | |
+| Oct 11 (W) | Day 09. Functions | Electric field hockey worksheet 1 | Project 1 due |
+| Oct 12 (Th) | Day 10. NumPy arrays | NumPy arrays worksheet | "Make-up Monday" (just roll with it) |
+| Oct 16 (M) | Day 11. Containers: dictionaries, tuples, etc | Electric field hockey worksheet 2 | |
+| Oct 18 (W) | Day 12. Advanced array techniques | Advanced array techniques worksheet |   |
+| Oct 23 (M) | Day 13. Project 2, Day 1 | Group quiz | Homework 2 due, Quiz 2 |
+| Oct 25 (W) | Day 14. Project 2, Day 2 | None | |
+| Oct 30 (M) | Day 15. Monte-Carlo methods 1 | Project 2 feedback | Project 2 first draft due |
+| Nov 01 (W) | Day 16. Fitting | Monte-Carlo methods 1 and fitting worksheet  | |
+| Nov 06 (M) | Day 17. Monte-Carlo methods 2 | Monte-Carlo methods 2 worksheet | Project 2 final draft due  |
+| Nov 08 (W) | Day 18. File input and output | File input and output worksheet | Homework 3 posted |
+| Nov 13 - 15 | Midterm break | | Project 3 posted |
+| Nov 20 (M) | Day 19. Animations | Animations worksheet | |
+| Nov 22 (W) | Day 20. Project 3 support | Homework 3 feedback | Homework 3 first draft due |
+| Nov 27 (M) | Day 21. Project 3 support | None | Homework 3 final draft due |
+| Nov 29 (W) | Day 22. Quiz | Group quiz | Quiz 3 |
+| Dec 04 (M) | Day 23. Project 3 support | Project 3 feedback | Project 3 first draft due |
+| Dec 06 (W) | Day 24. Quiz retakes | None | Project 3 final draft due |
+
+## SCHEDULE
 
 | Date | Topics | Other notes |
 | --- | --- | --- |
@@ -101,6 +133,11 @@ Part B: 25%
 Notes:
 
 * You must pass both part A and part B to pass the course. If you receive a score below 50% on one part, the weighting of the other part will drop to 0, resulting in a failing grade.
+
+***Proposed revised grade calculations***
+
+* ***First and final drafts***: There are now 4 first-drafts due in the course: homework 1, project 2, homework 3 and project 3. For each of these assessments, the first and final draft scores will be combined as follows. The first draft will always be scored out of 2 marks, where each mark earned will count 10% toward that assessment's overall grade. For example, earning 2/2 on the project 3 first draft will count 20% (at full marks) toward the overall project 3 grade and the remaining 80% of the project 3 grade will be determined from the project 3 final draft grade. As another example, earning 0.5/2 on the homework 3 grade will count 5% (at full marks) toward the homework 3 grade and the remaining 95% of the homework 3 grade will be determined from the homework 3 final draft grade.
+* ***Quizzes, projects and homework***: We will count your best score from your projects, solo quizzes, group quizzes and homework twice when calculating each of these grades, respectively. Your best score will include marks earned from first drafts when appropriate. 
 
 Grading scheme and deadline flexibility
 
