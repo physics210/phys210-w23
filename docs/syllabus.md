@@ -79,7 +79,7 @@ We will provide further details related to the format of the quizzes as we appro
 | Nov 27 (M) | Day 21. Project 3 support | None | Homework 3 final draft due |
 | Nov 29 (W) | Day 22. Quiz | Group quiz | Quiz 3 |
 | Dec 04 (M) | Day 23. Project 3 support | Project 3 feedback | Project 3 first draft due |
-| Dec 06 (W) | Day 24. Quiz retakes | None | Project 3 final draft due |
+| Dec 06 (W) | Day 24. Quiz retakes | None | Project 3 final draft due Thursday, Dec 07 at the end of the day |
 
 ## SCHEDULE
 
