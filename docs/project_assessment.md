@@ -40,8 +40,8 @@ The table below details how we adapt the editorial decision scale for Physics 21
 | :--- | :--- | :--- | :--- |
 | Outstanding | A+ | 10/10 | The work demonstrates initiative, insight and/or quality-level that goes above and beyond expectations. |
 | Publish | A | 9/10 | The criteria have been fully addressed. There are no outstanding errors or issues. |
-| Minor Revisions | B | 7/10 | There are minor errors or issues. The author can easily determine for themselves if the revisions are sufficient. |
-| Major Revisions | C | 5/10 | There are major errors or issues requiring time and effort to address. The author should seek feedback to determine if the revisions are sufficient. |
+| Minor Revisions | B | 7/10 | There are minor errors or issues. The author can easily determine for themselves if their revisions are sufficient. |
+| Major Revisions | C | 5/10 | There are major errors or issues requiring time and effort to address. The author should seek feedback to determine if their revisions are sufficient. |
 | Rework | D | 3/10 | The work addresses only a minority of the criteria or is not well-aligned with the criteria. The author should seek further feedback before engaging in revisions. |
 | Absent | Absent | 0/10 | The work addresses little to none of the criteria. |
 
